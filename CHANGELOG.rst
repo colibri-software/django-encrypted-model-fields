@@ -1,5 +1,6 @@
 django-encrypted-model-field Changelog
 ---------------------------------------
+- 0.5.9 - Added Django 3.2 support
 - 0.5.8 - Move to GITLAB repository
 
 - 0.5.7 - rearrange requirements and update dependencies
