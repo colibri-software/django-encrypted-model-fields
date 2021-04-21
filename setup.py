@@ -35,8 +35,7 @@ setup(
     maintainer_email="ssharkey@lanshark.com",
     install_requires=[
         'Django>=1.9',
-        'cryptography>=2.3',
-        'six',
+        'cryptography>=2.3'
     ],
     tests_require=['tox'],
     keywords=['encryption', 'django', 'fields', ],
@@ -52,15 +51,12 @@ setup(
         'Topic :: Security',
         'Topic :: System :: Systems Administration :: Authentication/Directory',
         "Programming Language :: Python",
-        'Programming Language :: Python :: 2',
-        "Programming Language :: Python :: 2.7",
         'Programming Language :: Python :: 3',
         "Programming Language :: Python :: 3.5",
         'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
         'Framework :: Django',
-        'Framework :: Django :: 1.9',
-        'Framework :: Django :: 1.10',
-        'Framework :: Django :: 1.11',
-        'Framework :: Django :: 2.0',
+        'Framework :: Django :: 3.2',
     ],
 )
